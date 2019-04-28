@@ -12,6 +12,8 @@ https://pypi.org/project/PyRSS2Gen/
 SFTP library
 https://pypi.org/project/pysftp/
 
-CFFI library - this one may be optional, try installing if SFTP / PyRSS library does not work
+CFFI library
 https://pypi.org/project/cffi/
+
+this one may be optional, try installing if SFTP / PyRSS library does not work
 sudo apt-get install python-cffi
