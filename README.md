@@ -15,6 +15,3 @@ https://pypi.org/project/pysftp/
 CFFI library - this one may be optional, try installing if SFTP / PyRSS library does not work
 https://pypi.org/project/cffi/
 sudo apt-get install python-cffi
-
-
-
